@@ -1,10 +1,14 @@
 {
   "name": "asterisk-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Biblioteca para cachear filas e agentes do Asterisk AMI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandorossato/asterisk-cache.git"
   },
   "keywords": ["asterisk", "ami", "cache", "agentes", "filas"],
   "author": "Fernando Rossato",
